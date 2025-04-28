@@ -29,7 +29,7 @@ void bubble(int *a, int n)
 
 int main()
 {
-    int *a, *b, n = 10000;
+    int *a, *b, n = 50000;
     
     a = new int[n];
     b = new int[n];
